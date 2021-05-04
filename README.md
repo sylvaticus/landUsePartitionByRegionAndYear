@@ -1,6 +1,9 @@
 # Land Use partitioned by sub-national region and year (1992-2019)
 
 
+[![DOI](https://zenodo.org/badge/364212542.svg)](https://zenodo.org/badge/latestdoi/364212542)
+
+
 ## What is this ?
 
 This archive reports the land use partitioned by sub-national administrative region and year, i.e. for each year a table reports the count of each land-use class per region.
@@ -82,7 +85,7 @@ GADM (https://gadm.org)
 
 ## Cite as
 
-Lobianco, A. (2021), Land Use partitioned by sub-national region and year (1992-2019), Zenodo
+Antonello Lobianco. (2021). Land use partitioned by region (sub-national) and year (1992-2019) (Version v0.0.1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4736886
 
 ## Licence
 
